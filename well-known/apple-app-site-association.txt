@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "【9L774DD4CT.Ragua.TimeEarniOS】”,
+        "paths": [ "/gate" ]
+      }
+    ]
+  }
+}
